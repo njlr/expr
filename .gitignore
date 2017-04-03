@@ -40,3 +40,10 @@ expr_test
 
 # Makefile local config
 config.mk
+
+# Buck
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
